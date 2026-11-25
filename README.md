@@ -1,3 +1,4 @@
-# Keanu's Pizzeria demo website
+# Edge Steaks and Seafood, Florida demo website
 
-One page demo site built by Habtech for Keanu's Neighborhood Pizzeria, Dubai. Single index.html, no build step.
+Demo one page website built by Habtech for Edge Steaks and Seafood, Florida.
+Static site, open index.html. Demo preview only, not the live website.
